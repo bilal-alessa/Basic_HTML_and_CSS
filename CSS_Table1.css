@@ -1,0 +1,22 @@
+table {
+	border: 1px solid orange;
+}
+
+table:hover {
+	background-color: green;
+	color: cyan;
+}
+
+tr, td {
+	background-color: red;
+	color: black;
+}
+
+tr, th {
+	background-color: black;
+	color: white;
+}
+
+ol {
+		list-style-type: upper-roman;
+}

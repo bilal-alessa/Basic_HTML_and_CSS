@@ -1,0 +1,19 @@
+p {
+	color: Black;
+	background-color: Cyan;
+	font-size: bold;
+	text-align: center;
+	
+	}
+
+h1 {
+	text-align: center;
+	text-shadow: 5px 5px 10px blue;
+	color: red
+}
+	
+	
+	
+	
+	
+	/* Comments are like this in CSS */
